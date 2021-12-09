@@ -22,3 +22,9 @@ allprojects {
 	        implementation 'com.github.SarfarazAliToori:toastLibrary:Tag'
 	}
   ```
+
+
+> implementation
+```
+MyToast.myToast(this, "Hello World")
+    ```
